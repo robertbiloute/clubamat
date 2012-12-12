@@ -42,4 +42,9 @@ tout ce qu'on veut du moment que ça se met sous forme de fichier texte.
 Je vais donc commencer par crééer un bête fichier texte, dont le nom m'est venu à l'esprit dans la Xroom de Chaos/Darwin 
 pour la petite histoire.
 
+Ouvrez un compte Github, forkez le dépôt 'clubamat' de robertbiloute (robertbiloute/clubamat), vous aurez alors votre dépôt
+X/clubamat, si vou vous appelez X (ce qui est un peu la loose quand même), et c'est parti.
+
+Ce message ne s'autodétruira PAS.
+
 Robert
