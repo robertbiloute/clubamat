@@ -29,9 +29,9 @@ https://github.com/blog/39-say-hello-to-the-network-graph-visualizer
 ça peut paraitre contre-intuitif au début, mais je pense que ça vaut le coup de s'y mettre, au moins pour essayer quoi.
 
 Et pour quoi faire ? 
-bah je sais pas, un texte ? des phrases ? des images ? les 2? des codes ? 
-tout ce qu'on veut du moment que ça se met sous forme de fichier
-Je vais commencer par un bête fichier texte, dont le nom m'est venu à l'esprit dans la Xroom de Chaos/Darwin 
+bah je sais pas, un texte dans un fichier? des phrases , une par fichier ? les 2? des codes ? 
+tout ce qu'on veut du moment que ça se met sous forme de fichier texte.
+Je vais donc commencer par crééer un bête fichier texte, dont le nom m'est venu à l'esprit dans la Xroom de Chaos/Darwin 
 pour la petite histoire.
 
 Robert
