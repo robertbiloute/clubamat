@@ -39,6 +39,7 @@ n'a pas pris en compte ces modifs, donc la denière branche de robobiloute reste
 Et pour quoi faire ? 
 bah je sais pas, un texte dans un fichier? des phrases , une par fichier ? les 2? des codes ? 
 tout ce qu'on veut du moment que ça se met sous forme de fichier texte.
+Il ya un système de commentaires sur les pull request qui pourrait permettre de lancer des petites discussions.
 Je vais donc commencer par crééer un bête fichier texte, dont le nom m'est venu à l'esprit dans la Xroom de Chaos/Darwin 
 pour la petite histoire.
 
