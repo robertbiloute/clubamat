@@ -22,9 +22,17 @@ http://www.wired.com/wiredenterprise/2012/02/github/
 aide github, très bien faite:
 https://help.github.com/
 
-note sur le 'network visualizer', qui permet de représenter graphiquement les différentes branches de développement,
-autrement dit les 'forks' de tout le monde et les différentes modifs en fonction du temps:
+note sur le 'network visualizer', outil très pratique qui permet de représenter graphiquement les différentes branches 
+de développement, autrement dit les 'forks' de tout le monde et les différentes modifs en fonction du temps:
 https://github.com/blog/39-say-hello-to-the-network-graph-visualizer
+
+pour exemple j'ai créer un autre utilisateur 'robobiloute' qui a fait des modifs sur le truc original.
+Si vous cliquez sur 'Network' en haut, vous verrez, du point de vue de robertbiloute, que robobiloute a fait 2 premières 
+modifs, il a fait un 'pull request' sur chacune de ces modifs, robertbiloute a accepté ces 2 pull request 
+(il accepte que les modifs soit effective aussi chez lui) le graphe de robobiloute rejoint donc celui de robertbiloute.
+Sauf que robobiloute a créé ensuite un nouveau fichier nommé YHVH, il n'a pas fait de pull request, robertbiloute 
+n'a pas pris en compte ces modifs, donc la denière branche de robobiloute reste distincte de celle de robertbiloute.
+(lisez le lien plus haut c'est bien expliqué..)
 
 ça peut paraitre contre-intuitif au début, mais je pense que ça vaut le coup de s'y mettre, au moins pour essayer quoi.
 
